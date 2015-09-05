@@ -17,7 +17,7 @@ public class UserBoImpl implements UserBo {
 
 	UserDao userDao;
 
-	public void setUserDAO(UserDao userDao) {
+	public void setUserDao(UserDao userDao) {
 		this.userDao = userDao;
 	}
 

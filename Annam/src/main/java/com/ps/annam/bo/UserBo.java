@@ -16,4 +16,6 @@ public interface UserBo {
 	void addUser(User user);
 	
 	List<User> listUser();
+	
+	
 }
